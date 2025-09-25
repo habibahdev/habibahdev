@@ -7,7 +7,7 @@
 
 #### A Junior Symfony Backend Developer in France
 
-- ⚙️ I use daily: `.php`, `.twig`, `.css`, `.py`
+- ⚙️ I use daily: `.php`, `.twig`, `.css`, `.sql`
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about: Formula 1, Malian food
 
