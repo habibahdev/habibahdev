@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Python**
 - 💬 Ask me about: Formula 1, Malian food
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habouu&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibahdev&show_icons=true&theme=transparent)
 
 <!---
 habouu/habouu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
