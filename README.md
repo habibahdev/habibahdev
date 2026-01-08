@@ -4,14 +4,10 @@
   <a href="mailto:ummhabibah-ouattara@outlook.com">E-mail</a>
 </p>
 
-<a href="#">
-  <img src="https://github.com/habibahdev/habibahdev/raw/master/img/hello.png" align="right" height="275" />
-</a>
-
-#### A Junior Backend Developer
+#### A master's student in computer science
 
 - ⚙️ I use daily: `.php`, `.twig`, `.css`, `.sql`
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently working on transport app
 - 💬 Ask me about: Formula 1, Malian food
 
 #### Technologies & Tools
