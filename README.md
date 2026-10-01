@@ -3,7 +3,7 @@
 <div align="center">
 
   <p align="center">
-    Astronaut coder
+    Astronaut coder who loves PHP a little bit to much
   </p>
 
   <br/>
