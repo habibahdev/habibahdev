@@ -16,7 +16,10 @@
 
   <br/>
 
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habibahdev&hide_progress=true)
-  ![Habibah's GitHub stats](https://github-stats-extended.vercel.app/api?username=habibahdev&rank_icon=github&hide=contribs,prs)
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=habibahdev&theme=tokyonight" alt="GitHub Streak" />
+    </a>
+  </p>
   
 </div>
