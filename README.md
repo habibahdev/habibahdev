@@ -16,6 +16,7 @@
 
   <br/>
 
-  [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habibahdev)](https://github.com/stats-organization/github-stats-extended)
+  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=habibahdev&hide_progress=true)
+  ![Habibah's GitHub stats](https://github-stats-extended.vercel.app/api?username=habibahdev&hide=contribs,prs)
   
 </div>
