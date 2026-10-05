@@ -1,25 +1,27 @@
-### Hello 👋
+Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <br/>
+[Voir mon CV](https://docs.google.com/document/d/1TFQQkFp7LM43vlQsRLdjzhnfCo0_uwsQpkz-KVaSihQ/edit?usp=sharing)
 
-<div align="center">
+|![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibahdev&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibahdev&theme=dracula)|
+|-----|-----|
 
-  <p align="center">
-    Astronaut coder 🚀
-  </p>
+## Recent Projects
 
-  <br/>
+1. [ShareTrips](https://github.com/habibahdev/share-trips) (Symfony)
+    - ShareTrips est une plateforme de covoiturage
+2. [AppShop](https://github.com/habibahdev/appshop) (Symfony)
+    - AppShop est une boutique en ligne
+3. [API Social](https://github.com/habibahdev/social-api) (Java, Spring Boot)
+    - API REST d'un réseau social qui permet de poster, commenter et liker
 
-  <p align="center">
-    <a href="https://skillicons.dev">
+---
+
+<a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,bootstrap,css,dotnet,docker,github,githubactions,html,java,latex,mysql,php,postgres,symfony,spring,angular,tailwind,vscode,postman,py," />
-    </a>
-  </p>
+</a>
 
-  <br/>
+<br/>
+<p style="font-size:10px">
 
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=habibahdev&theme=tokyonight" alt="GitHub Streak" />
-    </a>
-  </p>
-  
-</div>
+  Icônes : [Skill Icons](https://github.com/tandpfun/skill-icons) <br/>
+Readme : [Mithi](https://github.com/mithi)
+</p>
