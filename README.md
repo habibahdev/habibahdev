@@ -10,7 +10,7 @@ Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <b
     - ShareTrips est une plateforme de covoiturage
 2. [AppShop](https://github.com/habibahdev/appshop) (Symfony)
     - AppShop est une boutique en ligne
-3. [API Social](https://github.com/habibahdev/social-api) (Java, Spring Boot)
+3. [API Social](https://github.com/habibahdev/social-api-java) (Java, Spring Boot)
     - API REST d'un réseau social qui permet de poster, commenter et liker
 
 ---
