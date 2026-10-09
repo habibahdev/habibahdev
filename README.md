@@ -4,7 +4,7 @@ Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <b
 |![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibahdev&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibahdev&theme=dracula)|
 |-----|-----|
 
-## Recent Projects
+## Projets récent
 
 1. [ShareTrips](https://github.com/habibahdev/share-trips) (Symfony)
     - ShareTrips est une plateforme de covoiturage
@@ -13,14 +13,15 @@ Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <b
 3. [API Social](https://github.com/habibahdev/social-api-java) (Java, Spring Boot)
     - API REST d'un réseau social qui permet de poster, commenter et liker
 
----
+
+## Technos & Outils
 
 <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,bootstrap,css,dotnet,docker,github,githubactions,html,java,latex,mysql,php,postgres,symfony,spring,angular,tailwind,vscode,postman,py," />
 </a>
 
 <br/>
-<p style="font-size:10px">
+<p style="font-size:9px">
 
   Icônes : [Skill Icons](https://github.com/tandpfun/skill-icons) <br/>
 Readme : [Mithi](https://github.com/mithi)
