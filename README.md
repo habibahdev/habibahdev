@@ -1,5 +1,5 @@
-Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <br/>
-[Voir mon CV](https://docs.google.com/document/d/1TFQQkFp7LM43vlQsRLdjzhnfCo0_uwsQpkz-KVaSihQ/edit?usp=sharing)
+Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot / Angular. <br/>
+[Voir mon CV](https://docs.google.com/document/d/1L4TE3eVVWE8r0aFAe_uZwnuA69j7IiTo98wHs_GZWQs/edit?usp=sharing)
 
 |![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibahdev&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibahdev&theme=dracula)|
 |-----|-----|
@@ -8,11 +8,10 @@ Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot. <b
 
 1. [ShareTrips](https://github.com/habibahdev/share-trips) (Symfony)
     - ShareTrips est une plateforme de covoiturage
-2. [AppShop](https://github.com/habibahdev/appshop) (Symfony)
-    - AppShop est une boutique en ligne
-3. [API Social](https://github.com/habibahdev/social-api-java) (Java, Spring Boot)
+2. [API Social](https://github.com/habibahdev/social-api-java) (Java, Spring Boot)
     - API REST d'un réseau social qui permet de poster, commenter et liker
-
+3. [SpringShop](https://github.com/habibahdev/springshop) (Java, Spring Boot, Angular)
+    - Boutique en ligne 
 
 ## Technos & Outils
 
