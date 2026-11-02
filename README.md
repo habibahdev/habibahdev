@@ -1,4 +1,4 @@
-Hello, Je suis Habibah. Je suis en plein apprentissage de Java / Spring Boot / Angular. <br/>
+Hello, Je suis Habibah. Je suis construit des applications web avec **Symfony** · **PHP** mais aussi avec **Java** · **Spring Boot** · **Anuglar**. <br/>
 [Voir mon CV](https://docs.google.com/document/d/1L4TE3eVVWE8r0aFAe_uZwnuA69j7IiTo98wHs_GZWQs/edit?usp=sharing)
 
 |![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibahdev&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibahdev&theme=dracula)|
