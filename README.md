@@ -26,6 +26,5 @@ Hello, Je suis Habibah. Je suis construit des applications web avec **Symfony** 
 <br/>
 <p style="font-size:9px">
 
-  Icônes : [Skill Icons](https://github.com/tandpfun/skill-icons) <br/>
-Readme : [Mithi](https://github.com/mithi)
+  Icônes : [Skill Icons](https://github.com/tandpfun/skill-icons)
 </p>
