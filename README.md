@@ -1,4 +1,4 @@
-Hello, Je suis Habibah. Je suis construit des applications web avec **Symfony** · **PHP** mais aussi avec **Java** · **Spring Boot** · **Anuglar**. <br/>
+Hello, Je suis Habibah. Je suis construit des applications web avec **Symfony** · **PHP**. <br/>
 [Voir mon CV](https://docs.google.com/document/d/1TFQQkFp7LM43vlQsRLdjzhnfCo0_uwsQpkz-KVaSihQ/edit?usp=sharing)
 
 |![Github Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibahdev&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibahdev&theme=dracula)|
@@ -8,13 +8,11 @@ Hello, Je suis Habibah. Je suis construit des applications web avec **Symfony** 
 
 1. [ShareTrips](https://github.com/habibahdev/share-trips) (Symfony)
     - ShareTrips est une plateforme de covoiturage
-2. [API Social](https://github.com/habibahdev/social-api-java) (Java, Spring Boot)
-    - API REST d'un réseau social qui permet de poster, commenter et liker
-3. [SpringShop](https://github.com/habibahdev/springshop) (Java, Spring Boot, Angular)
+2. [SpringShop](https://github.com/habibahdev/springshop) (Java, Spring Boot, Angular)
     - Boutique en ligne
-4. [API Social](https://github.com/habibahdev/social-api) (Symfony)
+3. [API Social](https://github.com/habibahdev/social-api) (Symfony)
     - API REST d'un réseau social (poster, commenter, liker)
-5. [AppShop](https://github.com/habibahdev/appshop) (Symfony)
+4. [AppShop](https://github.com/habibahdev/appshop) (Symfony)
     - Boutique en ligne 
 
 ## Technos & Outils
